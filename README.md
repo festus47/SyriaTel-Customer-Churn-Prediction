@@ -91,7 +91,7 @@ This project successfully identified a model that can predict customer churn wit
    ![Model Comparison](Model_Comparison_Plot.png)
 
 3. **Distribution of Categorical Features**:
-   ![Distribution of Categorical Features](https://1drv.ms/i/s!AsvN5DC6zL5d42hZ_MCWDeHlSLTi?e=AHSOQt)
+   ![Distribution of Categorical Features](Distribution_of_Categorical_Features.png)
 
 ## Non-Technical Presentation
 
