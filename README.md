@@ -80,18 +80,18 @@ This project successfully identified a model that can predict customer churn wit
 ### Acknowledgments
 
 - **Data Source**: Thanks to SyriaTel for providing the dataset.
-- **Team Support**: Appreciation for the team and mentors who provided guidance throughout the project.
+- **Team Support**: Appreciation for the team and mentors who guided the project.
 
 ## Visualizations
 
-1. **Visualization of Key Festures**:
-   ![Visualization Key Festures](Visualization_of_Key_Festures.png)
+1. **Visualization of Key Features**:
+   ![Visualization Key Festures]("C:\Users\USER\OneDrive\Pictures\Visualization_of_Key_Festures.png")
 
 2. **Model Comparison Plot**:
-   ![Model Comparison](Model_Comparison_Plot.png)
+   ![Model Comparison]("C:\Users\USER\OneDrive\Pictures\Model_Comparison_Plot.png")
 
 3. **Distribution of Categorical Features**:
-   ![Distribution of Categorical Features](Distribution_of_Categorical_Features.png)
+   ![Distribution of Categorical Features]("C:\Users\USER\OneDrive\Pictures\Distribution_of_Categorical_Features.png")
 
 ## Non-Technical Presentation
 
