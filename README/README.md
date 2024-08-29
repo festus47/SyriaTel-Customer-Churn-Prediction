@@ -1,4 +1,4 @@
-# Customer Churn Prediction for SyriaTel
+# Customer Churn Prediction for Syriatel
 
 ## Project Overview
 
