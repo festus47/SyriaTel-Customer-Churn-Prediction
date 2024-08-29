@@ -85,14 +85,14 @@ This project successfully identified a model that can predict customer churn wit
 ## Visualizations
 
 1. **Visualization of Key Features**:
-   ![Visualization Key Festures]("C:\Users\USER\OneDrive\Pictures\Visualization_of_Key_Festures.png")
+   ![Visualization Key Festures](Visualization_of_Key_Festures.png)
 
 2. **Model Comparison Plot**:
-   ![Model Comparison]("C:\Users\USER\OneDrive\Pictures\Model_Comparison_Plot.png")
+   ![Model Comparison](Model_Comparison_Plot.png)
 
 3. **Distribution of Categorical Features**:
-   ![Distribution of Categorical Features]("C:\Users\USER\OneDrive\Pictures\Distribution_of_Categorical_Features.png")
+   ![Distribution of Categorical Features](Distribution_of_Categorical_Features.png)
 
 ## Non-Technical Presentation
 
-For a concise summary of the project and its business implications, please view the non-technical presentation [here](link_to_presentation).
+For a concise summary of the project and its business implications, please view the non-technical presentation [here](Presentation.pdf).
