@@ -95,4 +95,4 @@ This project successfully identified a model that can predict customer churn wit
 
 ## Non-Technical Presentation
 
-For a concise summary of the project and its business implications, please view the non-technical presentation [here](link_to_presentation).
+For a concise summary of the project and its business implications, please view the non-technical presentation [here](Presentation.pdf).
