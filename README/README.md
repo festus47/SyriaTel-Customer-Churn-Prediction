@@ -21,7 +21,7 @@ Customer churn is a critical problem for businesses, especially in highly compet
 
 ## Data Description
 
-The dataset provided by SyriaTel includes various customer attributes such as account length, area code, number of customer service calls, and whether the customer churned or not. The data was preprocessed to handle missing values, categorical features, and class imbalance.
+The data used for this project is sourced from a telecom customer churn dataset, which can be found on Kaggle. You can access the dataset [here](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset?resource=download). The dataset provided includes various customer attributes such as account length, area code, number of customer service calls, and whether the customer churned or not. The data was preprocessed to handle missing values, categorical features, and class imbalance.
 
 ## Modeling Approach
 
@@ -95,4 +95,4 @@ This project successfully identified a model that can predict customer churn wit
 
 ## Non-Technical Presentation
 
-For a concise summary of the project and its business implications, please view the non-technical presentation [here](link_to_presentation).
+For a concise summary of the project and its business implications, please view the non-technical presentation [here](Presentation.pdf).
